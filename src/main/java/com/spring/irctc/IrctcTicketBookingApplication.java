@@ -8,6 +8,7 @@ public class IrctcTicketBookingApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(IrctcTicketBookingApplication.class, args);
+		cicbw;bco;ubo
 	}
 
 }
