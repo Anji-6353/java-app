@@ -1,4 +1,4 @@
-package com.spring.irctc;
+ com.spring.irctc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
